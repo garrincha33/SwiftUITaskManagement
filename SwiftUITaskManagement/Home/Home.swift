@@ -87,8 +87,9 @@ struct Home: View {
             }
             else{
                 // MARK: Progress View
-                ProgressView()
-                    .offset(y: 100)
+//                ProgressView()
+//                    .offset(y: 100)
+                
             }
         }
         .padding()
